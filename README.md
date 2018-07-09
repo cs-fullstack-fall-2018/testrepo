@@ -1,2 +1,4 @@
 # testrepo
-Sample Test Repository
+Sample Test Repository for Use in Code School Class
+
+
